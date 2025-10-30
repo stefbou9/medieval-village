@@ -2,6 +2,12 @@
 
 Developed a 3D Unity project using the Universal Render Pipeline, featuring custom player controls and interaction scripts. Demonstrated knowledge of Unity scripting, asset integration, and scene setup. Project showcases proficiency with C# and real-time 3D workflows.
 
+- Custom player controller (movement, camera, breathing, sprint)
+- Scene setup and lighting using URP
+- Example integration of Unity scripting (C#)
+- (Optional) Demo scenes/asset packs, which have been excluded due to licensing
+
+
 ## ⚠️ Asset and Scene Exclusions
 To comply with licensing, most third-party asset packs and demo scenes are **excluded** from this public repository. This means:
 - The following folders/assets are missing in this version:
@@ -35,7 +41,7 @@ Many of these asset packs are available through the Unity Asset Store or other o
 ## How To Use
 1. **Clone or download this repository.**
 2. **Open in Unity** (matching or newer version as created).
-3. **Import any missing assets** required to make the full scene work, or run the included minimal code as a logic showcase.
+3. **Import any missing assets** required to make the full scene work.
 
 ## Author
-Stefanos B. // GitHub: [your-handle-here]
+Stefanos Bousdekis
