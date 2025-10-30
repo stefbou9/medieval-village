@@ -1,0 +1,51 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.bak
+*.swp
+
+# Exclude most third-party asset packs (not licensed for public re-upload)
+Assets/4K_Photogrammetry_Set_Vol.1 PART/
+Assets/ADG_Textures/
+Assets/AnimalPack2/
+Assets/Blink/
+Assets/Butterfly (Animated)/
+Assets/Campfire/
+Assets/ExampleAssets/
+Assets/Fallen Tree Barrier - FREE/
+Assets/Free Tree 02/
+Assets/GrassFlowers/
+Assets/laxer tree pkg/
+Assets/Malbers Animations/
+Assets/Mountain Terrain/
+Assets/Rock Package/
+Assets/SampleScenes/
+Assets/Standard Assets/
+Assets/TutorialInfo/
+Assets/Viking Village/
+Assets/YughuesFreeBushes2018/
+
+# Includes your own work only
+# Leave public: Assets/Scripts/, Assets/Scenes/, Assets/PlayerMovement.cs, Assets/MouseLook.cs, Assets/Breath.cs, Assets/Sprint.cs, etc.
