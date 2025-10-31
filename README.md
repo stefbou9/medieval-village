@@ -43,5 +43,5 @@ Many of these asset packs are available through the Unity Asset Store or other o
 2. **Open in Unity** (matching or newer version as created).
 3. **Import any missing assets** required to make the full scene work.
 
-## Author
-Stefanos Bousdekis
+## Authors
+Stefanos Bousdekis, Konstantinos Gialantzis
